@@ -16,6 +16,9 @@ body {
     line-height: 1.5; }
   .container input[type="checkbox"] {
     margin-right: 5px; }
+  .container input[type="text"] {
+    padding: 2px;
+    margin-right: 5px; }
 
 .cmd {
   font-size: 12px;
